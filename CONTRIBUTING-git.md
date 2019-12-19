@@ -1,3 +1,5 @@
+### Workflow with git ###
+
 #### Working with git submodules ####
 
 We use git submodules
@@ -9,6 +11,11 @@ $ git clone --recurse https://github.com/open-optimization/open-optimization-or-
 ```
 
 Submodules are pinned to specific commits.  Running `git pull` or `git commit` etc. in the subdirectory containing a submodule, such as `open-optimization-bibliography`, marks the submodule as "modified" in the containing repository.  Commit this change to update the pinning of the submodule.
+
+#### Never check in generated files ####
+
+Only source files are to be committed to the git repository.
+Add names of generated files, such as PDF files compiled from LaTeX sources, to `.gitignore` if they are not already covered by file name patterns.
 
 #### Continuous integration on GitHub ####
 
