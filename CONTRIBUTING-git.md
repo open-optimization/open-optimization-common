@@ -12,6 +12,8 @@ $ git clone --recurse https://github.com/open-optimization/open-optimization-or-
 
 Submodules are pinned to specific commits.  Running `git pull` or `git commit` etc. in the subdirectory containing a submodule, such as `open-optimization-bibliography`, marks the submodule as "modified" in the containing repository.  Commit this change to update the pinning of the submodule.
 
+To move files between submodules, or between the containing repository and submodules, use `mv`, followed by `git add` and `git commit` in the affected repositories; avoid using `git mv`, which has an effect that may be confusing.
+
 #### Never check in generated files ####
 
 Only source files are to be committed to the git repository.
