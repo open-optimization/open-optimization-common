@@ -16,7 +16,7 @@ The CC-BY-SA license makes sure that the following uses are possible:
  * Publishing the materials, or remixes or other adaptations, with a self-publishing service.
  * Using the materials in a commercial MOOC - as long as the platform agrees to keep the source files of the MOOC course that uses it available under the same license
 
-We do *not* use the NonCommercial (NC) variants of the CC licenses such as CC-BY-NC, CC-BY-NC-ND, CC-BY-NC-SA.  If you feel strongly about restricting the use of your materials to non-commercial use only, or disallowing the creation of derivatives, we certainly respect your opinion and feelsing; but as this is incompatible with our philosophy and license choices, you will have to find another venue for your materials.
+We do *not* use the NonCommercial (NC) variants of the CC licenses such as CC-BY-NC, CC-BY-NC-ND, CC-BY-NC-SA.  If you feel strongly about restricting the use of your materials to non-commercial use only, or disallowing the creation of derivatives, we certainly respect your opinions, feelings, and decisions; but as this is incompatible with our philosophy and license choices, you will have to find another venue for your materials.
 
 #### Discussion of compatibility of CC-BY-SA with other free licenses
 
