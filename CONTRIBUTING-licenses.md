@@ -11,10 +11,10 @@ The CC-BY-SA license makes sure that the following uses are possible:
  * Adopting material *from* Wikipedia to the project, and adding material *to* Wikipedia  from the project.
  * Including materials from the project in Free Software / Open Source projects and distributions:
    - CC-BY-SA satisfies the criteria of the [Debian_Free_Software_Guidelines](https://en.wikipedia.org/wiki/Debian_Free_Software_Guidelines), and therefore materials from the project can be included in major Linux distributions.
-   - More specifically, the CC-BY-SA license is [one-way compatible with the GNU General Public License 3 (GPL v3)](https://creativecommons.org/2015/10/08/cc-by-sa-4-0-now-one-way-compatible-with-gplv3/), so free software packages using this license will be to use material from our project to enhance their documentation.
- * Publishing the materials, or remixes or other adaptations, with a commercial publisher -- as long as the publisher agrees to keep the source files of the commercial edition  available under the same license
+   - More specifically, the CC-BY-SA license is [one-way compatible with the GNU General Public License 3 (GPL v3)](https://creativecommons.org/2015/10/08/cc-by-sa-4-0-now-one-way-compatible-with-gplv3/), so free software packages using this license will be able to use material from our project to enhance their documentation.
+ * Publishing the materials, or remixes or other adaptations, with a commercial publisher - as long as the publisher agrees to keep the source files of the commercial edition  available under the same license
  * Publishing the materials, or remixes or other adaptations, with a self-publishing service.
- * Using the materials in a commercial MOOC -- as long as the platform agrees to keep the source files of the MOOC course that uses it available under the same license
+ * Using the materials in a commercial MOOC - as long as the platform agrees to keep the source files of the MOOC course that uses it available under the same license
 
 We do *not* use the NonCommercial (NC) variants of the CC licenses such as CC-BY-NC, CC-BY-NC-ND, CC-BY-NC-SA.  If you feel strongly about restricting the use of your materials to non-commercial use only, or disallowing the creation of derivatives, we certainly respect your opinion and feelsing; but as this is incompatible with our philosophy and license choices, you will have to find another venue for your materials.
 
@@ -42,13 +42,9 @@ TBD: other CC licenses
 
 7. Don't clone the repository.  Either:
 
-	#. Copy materials from the source repository, step by step, into an existing open-optimization repository when needed.
+	- Either: Copy materials from the source repository, step by step, into an existing open-optimization repository when needed. Document the source of the materials by include the URL https://github.com/open-optimization/source-gantzig-linear-programming-and-restrictions in LaTeX comments where appropriate and in the commit message.
 
-		Document the source of the materials by include the URL https://github.com/open-optimization/source-gantzig-linear-programming-and-restrictions in LaTeX comments where appropriate and in the commit message.
-
-	#. Prepare an open-optimization version of the materials:
-
-		Create a new repository from [open-optimization-template](https://github.com/open-optimization/open-optimization-template), such as `open-optimization-gantzig-linear-programming-and-restrictions`. Copy in materials from the source prepository, avoiding to copy generated files.  Adjust file structure to project standards.  Build, test, fix, repeat, release.
+	- Or: Prepare an open-optimization version of the materials: Create a new repository from [open-optimization-template](https://github.com/open-optimization/open-optimization-template), such as `open-optimization-gantzig-linear-programming-and-restrictions`. Copy in materials from the source prepository, avoiding to copy generated files.  Adjust file structure to project standards.  Build, test, fix, repeat, release.
 
 #### Keeping track of the source and license status of materials from the web ####
 
