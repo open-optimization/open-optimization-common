@@ -20,10 +20,7 @@ We do *not* use the NonCommercial (NC) variants of the CC licenses such as CC-BY
 
 #### Discussion of compatibility of CC-BY-SA with other free licenses
 
-TBD: CC-BY-SA 3 vs 4
-
-TBD: other CC licenses
-
+See https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses/
 
 #### Workflow for integrating contributed/donated materials ####
 
