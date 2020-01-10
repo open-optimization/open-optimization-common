@@ -37,7 +37,7 @@ Open Optimization is a collaborative project, aimed at creating a quality open t
 This memorandum of understanding (MOU) lays out the contributor expectations, licensing information, and other conditions of participation. All contributors are asked to read through and agree to the terms. Any questions or concerns can be addressed to the project manager: Robert Hildebrand - rhil@vt.edu.
 
 ## Role expectations
-In this section, write out any expectations for specific kinds of contributors, e.g. authors, reviewers, lead editors, etc.
+Contributors to this project are expect to read the documentation and licences associated with it and be aware of how thier material can and will likely be used.  Furthermore, we expect contributors to properly vet thier own work for copywrite issues before uploading thier work.  All content added must follow the licences outlined below.  Hence, we expect that your work is original, accurate, and related to the goals of this project.
 
 ## Content Licensing
 All content (writing, images, charts, videos, etc.) created for inclusion in this project, as well as ancillary materials (slide decks, assignments, in-class exercises etc. with the exception of question banks), are to be licensed under a Creative Commons Attribution 4.0 International License (CC BY-SA 4.0). In accordance, all authors and other creators retain the copyright to their contributions, and by affliating with Open Optimization, grant a CC BY-SA 4.0 license to all content created for this project.
