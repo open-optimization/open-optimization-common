@@ -14,7 +14,7 @@ All material other than code will be licensed under Creative Commons Attribution
 
 All code (e.g., Julia, Python, AMPL, GAMS, MatLab, etc.) on this repository will be licensed freely under the MIT License.  This is in an effort to make code simple and easy to reuse.
 
-Please see ![CONTRIBUTING-lincences](https://github.com/open-optimization/open-optimization-common/blob/master/CONTRIBUTING-licenses.md) for more detailed explanation of lincence choices and how to contribute.
+Please see [CONTRIBUTING-lincences](https://github.com/open-optimization/open-optimization-common/blob/master/CONTRIBUTING-licenses.md) for more detailed explanation of lincence choices and how to contribute.
 
 Your contributions to this endeavor are greatly valued and appreciated.  We hope you will help with this project and also use it as a resource for future courses, lectures, and presentations.
 
