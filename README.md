@@ -5,10 +5,12 @@ This repository provides shared files used by all Open Optimization repositories
 
 # About Open Optimization
 
-- Open education resources
-- Commercial use is allowed - discuss why this choice is made.
-
-Welcome to Open Optimization - an ecosystem for open-source materials for teaching optimization and operations research.  This ecosystem is being formed to host open-source lecture notes, lecture slides, examples, code, figures, and textbooks on material and courses related to optimization and operation research.
+Welcome to Open Optimization - an ecosystem for open-source materials for teaching optimization and operations research.  This ecosystem is being formed to host open-source lecture notes, lecture slides, examples, code, figures, and textbooks on material and courses related to optimization and operation research.  Our open licenses allow users to participate in the "5R activities of OER":
+- Retain:  Make, own, and control your own copy of the content
+- Reuse:   Use the content as-is
+- Revise:  Adapt, adjust, modify, improve, or alter the content
+- Remix:  Combine the original or revised content with other OER to create something new
+- Redistribute:  Share your copies of the original content, revisions or remixes with others
 
 All material other than code will be licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) that permits free reuse and alteration of the material provided the proper attribution is given.  All material posted will be not just open-source, but open-source code as well - including LaTeX, tikz, and other means of generating content.  This allows those interested in reusing material an easy way to change and adapt the material as needed.
 
