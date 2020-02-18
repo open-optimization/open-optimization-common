@@ -35,3 +35,8 @@ Dimitri P. Bertsekas and John N. Tsitsiklis
 http://web.mit.edu/dimitrib/www/pdc.html
 
 
+
+# Free to download from a university
+- Integer Programming
+Michele ConfortiGérard CornuéjolsGiacomo Zambelli
+https://link.springer.com/book/10.1007%2F978-3-319-11008-0
