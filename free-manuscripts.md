@@ -40,3 +40,7 @@ http://web.mit.edu/dimitrib/www/pdc.html
 - Integer Programming
 Michele ConfortiGérard CornuéjolsGiacomo Zambelli
 https://link.springer.com/book/10.1007%2F978-3-319-11008-0
+
+- Semidefinite Optimization and Convex Algebraic Geometry
+Editors: G. Blekherman (Georgia Tech), P. Parrilo (MIT), R. Thomas (U. Washington).
+http://www.mit.edu/~parrilo/sdocag/
