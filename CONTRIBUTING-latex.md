@@ -1,6 +1,6 @@
 ### LaTeX ###
 
-Our primary goal is to produce a book in PDF format.  We use PDFLaTeX.
+Our primary goal is to produce a textbooks and course material in PDF format.  We use PDFLaTeX.
 
 We will consider other targets, such as generating HTML, later.
 
